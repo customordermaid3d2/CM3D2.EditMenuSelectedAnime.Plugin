@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COM3D2.EditMenuSelectedAnime.Plugin", "COM3D2.EditMenuSelectedAnime.Plugin\COM3D2.EditMenuSelectedAnime.Plugin.csproj", "{4AD91A8E-0B1B-44AC-8B6C-90144A66837D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COM3D25.EditMenuSelectedAnime.Plugin", "COM3D25.EditMenuSelectedAnime.Plugin\COM3D25.EditMenuSelectedAnime.Plugin.csproj", "{3E7C2606-7F96-48D9-AAD7-CEDAA7268602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD91A8E-0B1B-44AC-8B6C-90144A66837D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD91A8E-0B1B-44AC-8B6C-90144A66837D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD91A8E-0B1B-44AC-8B6C-90144A66837D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD91A8E-0B1B-44AC-8B6C-90144A66837D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E7C2606-7F96-48D9-AAD7-CEDAA7268602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7C2606-7F96-48D9-AAD7-CEDAA7268602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7C2606-7F96-48D9-AAD7-CEDAA7268602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7C2606-7F96-48D9-AAD7-CEDAA7268602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97D8B20E-A783-4755-9B26-46E1CB3A6FB5}
+	EndGlobalSection
+EndGlobal
