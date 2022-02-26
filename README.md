@@ -1,3 +1,6 @@
+# this BepInEx converting version
+
+
 # CM3D2.EditMenuSelectedAnime.Plugin
 CM3D2/COM3D2のエディットメニューの選択中アイテムを見つけやすいようにアイコンを拡縮させます。  
 メニュー変更時には選択中アイテムが先頭行に来るように自動スクロールさせます。  
